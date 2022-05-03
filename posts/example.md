@@ -53,3 +53,5 @@ Que gera o seguinte plano de execução:
 Concluindo, refaço a pergunta: Você comete este erro no _Left Join_?
 
 Caso queria ver os exemplos na prática, acesse este [link](git@github.com:airtoncarneiro/my-dev.to.git).
+
+v.2
