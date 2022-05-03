@@ -51,3 +51,5 @@ Que gera o seguinte plano de execução:
 ![plano de execução para left join](https://media-exp1.licdn.com/dms/image/C4D12AQE-bxE9WpWTyg/article-inline_image-shrink_1500_2232/0/1651583434146?e=2147483647&v=beta&t=a7DS4UDrIn1p8U66XaWyhBwYsEzNASkdkGjiAs7xQZQ)
 
 Concluindo, refaço a pergunta: Você comete este erro no _Left Join_?
+
+Caso queria ver os exemplos na prática, acesse este [link](git@github.com:airtoncarneiro/my-dev.to.git).
